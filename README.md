@@ -7,4 +7,5 @@ what i know
 1. modelling
 1.character design
 1. environment design
+1. animation
 
