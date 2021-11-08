@@ -8,4 +8,5 @@ what i know
 1.character design
 1. environment design
 1. animation
-
+1. VIDEO EDITING
+2. 
